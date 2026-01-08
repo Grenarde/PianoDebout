@@ -11,6 +11,8 @@ function wait(milliseconds) {
     }
 }
 
+// Commentaire de test
+
 
 for (let i = 0; i < clavierBlanc.length; i = i + 1) {
     toucheBlanche[i].addEventListener('click', function () {
