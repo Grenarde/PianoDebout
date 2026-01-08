@@ -1,0 +1,48 @@
+.clavier-blanc{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    margin-top: 500px;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+}
+
+button.touche_blanche{
+    width: 60px;
+    height: 200px;
+    background-color: rgb(135, 125, 210);
+    border: 0px;
+    border-radius: 5px;
+}
+
+.body{
+    background-color: #000000;
+}
+
+.clavier-noir{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    margin-top: -200px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+button.touche_noire1{
+    width: 40px;
+    height: 100px;
+    background-color: rgb(247, 161, 255);
+    border: 0px;
+    border-radius: 5px;
+    margin-right: 30px;
+}
+
+button.touche_noire2{
+    width: 40px;
+    height: 100px;
+    background-color: rgb(247, 161, 255);
+    border: 0px;
+    border-radius: 5px;
+}
