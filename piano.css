@@ -65,3 +65,43 @@ div.espace-3{
     width: 75px;
     margin-top: -150px;
 }
+
+div.tousLesBoutons{
+    display: flex;
+    margin-top: 200px;
+    justify-content: center;
+    gap: 10px;
+}
+
+.boutonEnregistrer
+{
+    padding: 10px;
+    background-color: #410077;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    height: 55px;
+    width: 90px;
+}
+
+.boutonArreter
+{
+    padding: 10px;
+    background-color: #770000;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    height: 55px;
+    width: 90px;
+}
+
+.boutonPlay
+{
+    padding: 10px;
+    background-color: #007732;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    height: 55px;
+    width: 90px;
+}
